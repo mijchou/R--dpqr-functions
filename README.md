@@ -4,7 +4,6 @@ You may have overseen the functions dnorm, pnorm, qnorm & rnorm in R. They all s
 
 ## What is a distribution function?
 
-It is simply a mathematical function f(x) that gives you the probability of an event happening when you feed in the chosen event X. Say, (my favourite dummy example:) you're in a class of 100 people, 
 
 ## dnorm - probability density function (pdf)
 
